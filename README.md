@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Invisible-Luna
 - 👀 I’m interested in Data Analysis, Machine Learning and Quantum Computing. 
-- 🌱 I’m currently learning Data Analysis and ML.
-- 💞️ I’m looking to collaborate on a starter project (ML).
+- 🌱 I’m currently doing my research in LTE Networks using NS3 Simulator and Parallelization.
+- 💞️ I’m looking to collaborate on a starter project and research papers.
 - 📫 How to reach me ...
-email: www.pavivasukaly@gmail.com
+email: pravallika.saladi@gmail.com
 
 <!---
 Invisible-Luna/Invisible-Luna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
